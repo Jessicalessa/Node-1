@@ -1,5 +1,4 @@
 //requisições
-
 const http = require('http');
 
 const hostname = "192.168.32.1";
