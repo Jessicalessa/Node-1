@@ -11,6 +11,7 @@ const server = http.createServer((req,res)=>{
     res.end("Olá mundo!");
 })
 
+//com o cmd abra o arquivo e a frase estara la
 server.listen(port,hostname,()=>{
     console.log("Servidor está rodando")
 })
